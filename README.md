@@ -1,2 +1,3 @@
-# myvdd-2025-trabajo-final
-Repo para entregar el trabajo final de la asignatura
+# Trabajo final individual
+
+Repo con el enunciado y los materiales para la entrega del trabajo final individual.
